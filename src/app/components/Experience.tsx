@@ -43,9 +43,11 @@ export function Experience() {
       role: "IT Intern",
       period: "November 2025 - Present",
       description: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Mentored junior developers and conducted code reviews",
-        "Improved application performance by 40% through optimization"
+        "Performed OS installations and configuration in multiple environments",
+        "Administered users, groups, and permissions",
+        "Managed and resolved support tickets in Jira and ServiceNow",
+        "Diagnosed and resolved software and hardware issues"
+
       ]
     },
     

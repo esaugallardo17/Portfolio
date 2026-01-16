@@ -6,14 +6,14 @@ export function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "esau.gallardo.avila@gmail.com",
-      href: "mailto:john.developer@example.com"
+      value: "gallardo.avila.esau@gmail.com",
+      href: "mailto:gallardo.avila.esau@gmail.com"
     },
     {
       icon: Phone,
       label: "Phone",
       value: "+52 5584686486",
-      href: "tel:+15551234567"
+      href: "tel:+52 5584686486"
     },
     {
       icon: MapPin,
@@ -78,7 +78,7 @@ export function Contact() {
           viewport={{ once: true }}
         >
           <a
-            href="mailto:john.developer@example.com"
+            href="mailto:gallardo.avila.esau@gmail.com"
             className="inline-block px-8 py-3 bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 rounded-lg hover:bg-gray-700 dark:hover:bg-gray-300 transition-colors"
           >
             Send Message

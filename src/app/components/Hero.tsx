@@ -10,7 +10,9 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          <h1 className="mb-4">Esaú Gallardo Avila</h1>
+         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-4xl font-display font-bold text-foreground mb-6 animate-fade-in-up delay-100">
+          Esaú Gallardo Avila
+          </h1>
           <p className="text-xl text-gray-600 dark:text-gray-400 mb-6">
             TELEMATICS ENGINEERING STUDENT    |     IT intern
           </p>

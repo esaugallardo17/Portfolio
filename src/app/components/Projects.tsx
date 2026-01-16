@@ -76,17 +76,11 @@ export function Projects() {
       demo: "https://example.com"
     },
     {
-      title: "Task Management App",
+      title: "Music Social App",
       description: "Collaborative task management tool with real-time updates and team features",
       technologies: ["Next.js", "TypeScript", "MongoDB", "Socket.io"],
       github: "https://github.com",
       demo: "https://example.com"
-    },
-    {
-      title: "Analytics Dashboard",
-      description: "Data visualization dashboard with interactive charts and real-time metrics",
-      technologies: ["React", "D3.js", "Python", "Flask"],
-      github: "https://github.com"
     }
   ];
 

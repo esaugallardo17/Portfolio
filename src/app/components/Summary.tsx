@@ -46,14 +46,13 @@ export function Summary() {
               className="space-y-4 text-gray-700 dark:text-gray-300"
             >
               <p>
-                I'm a passionate software developer with over 6 years of experience building 
-                scalable web applications and leading development teams. My journey in tech 
-                started with a curiosity for problem-solving and has evolved into a career 
-                focused on creating impactful digital solutions.
+                I'm a telematics engeneering student, cursing the last year of my bachelor, also I'm a starting
+                 web developer with experience working on IT, like server suppport,
+                 hardware and software support, device management and security and compliance for the users.
               </p>
               <p>
-                I specialize in full-stack development with expertise in modern JavaScript 
-                frameworks, cloud infrastructure, and agile methodologies. I thrive in 
+                Now I want to start coding, I know about full-stack development with expertise in modern 
+                JavaScript frameworks, cloud infrastructure, and agile methodologies. I thrive in 
                 collaborative environments where innovation and continuous learning are valued.
               </p>
               <p>

@@ -46,16 +46,20 @@ function EducationItem({ degree, institution, period, description, index }: Educ
 export function Education() {
   const education = [
     {
-      degree: "Bachelor of Science in Computer Science",
-      institution: "University of Technology",
-      period: "2014 - 2018",
-      description: "Graduated with honors. Focus on software engineering and algorithms."
+      degree: "Technician in automated machines and systems" ,
+      institution: " Cecyt 9",
+      period: "2018 - 2021",
+      description: "Focus on maintains, troubleshoots, and repairs complex computer-controlled industrial equipment, integrating mechanical, " +
+      "electrical, and software skills to ensure efficient, automated operations in manufacturing and other sectors, handling everything from " +
+      "robotic arms and PLCs to network protocols like Ethernet/IP"
     },
     {
-      degree: "AWS Certified Solutions Architect",
-      institution: "Amazon Web Services",
-      period: "2021",
-      description: "Professional certification for cloud architecture and infrastructure."
+      degree: "Telematics ENGINEER",
+      institution: "UPIITA - IPN",
+      period: "2021 - Present (9th semester)",
+      description: "Focus on designs, develops, and manages systems that blend telecommunications and informatics to monitor and control remote " +
+      "assets, especially vehicles, using GPS, wireless tech, and IoT for tracking, diagnostics, and efficiency, working at the intersection of software,"+
+       "hardware, and data."
     }
   ];
 
